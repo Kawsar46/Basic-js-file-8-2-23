@@ -4,3 +4,7 @@ function startFan(){
     console.log('press the switch');
 }
 startFan();
+console.log('wake up early in the morning')
+startFan();
+console.log('do not press the bell you will be the running')
+startFan();
